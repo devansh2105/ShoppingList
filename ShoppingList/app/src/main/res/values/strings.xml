@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Shopalogue</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="click_to_create_new_item">Click here to create new items</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_all">Delete All</string>
+    <string name="runtime_exception">The activity does not implement the ItemHandlerInterface</string>
+    <string name="new_item">New item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="save">Save</string>
+    <string name="field_cannot_be_empty">This field can not be empty</string>
+    <string name="dollar">$</string>
+    <string name="my_shopping_list">My Shopping List</string>
+    <string name="already_purchased">Already Purchased</string>
+    <string name="_0_percent">0%</string>
+    <string name="edit">Edit</string>
+    <string name="view_details">View Details</string>
+    <string name="delete">Delete</string>
+    <string name="loop_entered_here">The loop entered here</string>
+    <string name="name_header">Name: </string>
+    <string name="price_header">Price: </string>
+    <string name="description_header">Description: </string>
+    <string name="clothes">Clothes</string>
+    <string name="electronics">Electronics</string>
+    <string name="groceries">Groceries</string>
+    <string name="hygiene">Hygiene</string>
+    <string name="stationery">Stationery</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="purchased_yes">Purchased:Yes</string>
+    <string name="purchased_no">Purchased:No</string>
+    <string name="category_header">Category: </string>
+    <string name="back">Back</string>
+    <string name="item_name">Item Name</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="item_description">Item Description</string>
+    <string-array name="category_array">
+        <item>Clothes</item>
+        <item>Electronics</item>
+        <item>Groceries</item>
+        <item>Personal Hygiene</item>
+        <item>Stationery</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>
